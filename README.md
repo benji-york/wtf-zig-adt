@@ -260,7 +260,7 @@ switch (value) {
 
 ## Modify Tagged Union
 
-If you need to modify the value, you have to use convert the value to a
+If you need to modify the value, you have to convert the value to a
 pointer in the capture using `*`.
 
 ```zig
